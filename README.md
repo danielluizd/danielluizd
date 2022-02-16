@@ -12,3 +12,11 @@ I have been a part of the EDUCATIONAL TUTORIAL PROGRAM (PET) AUTONET/MEC, where 
 Nowadays, I am in the last year of Mechatronics Engineering, where I am looking for a job in any other area alike. I've already been part of some researches groups where I was able to project power plants, which was very important to build my knowledge in the area that I do well.
 
 During my free time I study subjects related to electric and control projects development.
+
+<div> 
+   <a href="https://instagram.com/taiscgehlen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	  <a href = "mailto:taiscgehlen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tais-cristina-gehlen-a259b9106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
