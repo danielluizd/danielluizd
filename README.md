@@ -1,22 +1,43 @@
-# Hi, I'm Daniel! :D
+# Hi, I'm Daniel Dourados! 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielluizd)](https://github.com/danielluizd)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-luiz-dourados/)](https://www.linkedin.com/in/daniel-luiz-dourados/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DanLuizD)](https://twitter.com/DanLuizD)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielluizd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/daniel-luiz-dourados/)
 
-### About me
-I'm an Engineer and I have 1 year experience in academic research.
+## About me
 
-I have been a part of the EDUCATIONAL TUTORIAL PROGRAM (PET) AUTONET/MEC, where I have also worked as a leader of the group, and I've developed some researches, as a production of a low-cost drone using a 3D printer, for example.
+I'm a software developer and technical consultant focused on TOTVS Protheus, ERP integrations, and business process automation.
 
-Nowadays, I am in the last year of Mechatronics Engineering, where I am looking for a job in any other area alike. I've already been part of some researches groups where I was able to project power plants, which was very important to build my knowledge in the area that I do well.
+My work spans technical investigation, solution design, custom development, and support for testing and delivery. I help translate business requirements into maintainable solutions, with attention to existing processes and system behavior.
 
-During my free time I study subjects related to electric and control projects development.
+## What I do
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- Develop and maintain TOTVS Protheus customizations using **AdvPL and TLPP**.
+- Build and troubleshoot **REST API integrations** between ERP and external systems.
+- Work with **SQL Server** for data analysis, queries, and technical troubleshooting.
+- Support **ERP upgrades and environment migrations**, including dependency mapping, configuration reviews, and cutover planning.
+- Investigate **Brazilian electronic invoicing and TSS integration issues**.
+- Prepare technical scopes, estimates, architecture documentation, and implementation plans.
 
-  </div>
+## Background
+
+My background includes Mechatronics Engineering studies and academic research through **PET AUTONET**, part of Brazil's Tutorial Education Program.
+
+During that period, I held a group leadership role and contributed to research projects, including the development of a low-cost drone using 3D printing and projects related to power plant design.
+
+I also explored front-end development with **HTML, CSS, and JavaScript** before focusing on enterprise software and ERP systems.
+
+## Current interests
+
+- AI-assisted software development and technical investigation.
+- Knowledge management for client projects.
+- Process automation and reliable system integrations.
+- Modernizing AdvPL solutions with TLPP.
+
+## Technologies
+
+**ERP & Development:** TOTVS Protheus · AdvPL · TLPP · TSS  
+**Data & Integrations:** SQL Server · SQL · REST APIs  
+**Version Control:** Git · GitHub  
+**Web Foundations:** HTML · CSS · JavaScript
+
+📍 Cuiabá, Mato Grosso, Brazil
